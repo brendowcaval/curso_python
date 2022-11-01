@@ -2,9 +2,9 @@
 
 ### Ordem de pastas para estudo:
 
-- 01_sintaxe      - 11_matrizes
-- 02_dados        - 12_dictionary
-- 03_strings      - 13_funcoes
+- 01_sintaxe      
+- 02_dados        
+- 03_strings      
 - 04_boolean
 - 05_list
 - 06_if
@@ -12,3 +12,6 @@
 - 08_input
 - 09_while
 - 10_tuplas
+- 11_matrizes
+- 12_dictionary
+- 13_funcoes
